@@ -1,0 +1,15 @@
+{
+	"name": "utkarshdf11",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7e6ed8fb-8306-4a75-b875-da0bd0b81714",
+		"tenantId": "a2404c7d-b599-406d-b772-ce61340fb63c"
+	}
+}
